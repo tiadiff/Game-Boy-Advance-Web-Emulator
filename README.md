@@ -38,20 +38,5 @@ Il progetto è un esempio di applicazione moderna senza build-step complessi (ca
 | **Start** | `Invio` |
 | **Select** | `Shift` |
 
-## 🚀 Come Avviare il Progetto
-
-1.  **Download**: Scarica i file del progetto (`index.html` e la cartella `assets`).
-2.  **Configurazione API Key**:
-    * Apri il file JS principale (`index-ByCpwr23.js`).
-    * Cerca la stringa `PLACEHOLDER_API_KEY` (verso la fine del file).
-    * Sostituiscila con la tua API Key valida di Google AI Studio.
-3.  **Avvio Server**:
-    Poiché il progetto utilizza moduli ES6 (`type="module"`), è necessario servirlo tramite un web server locale per evitare errori CORS.
-    * Con Python: `python -m http.server 8000`
-    * Con Node (http-server): `npx http-server .`
-    * Estensione VS Code: "Live Server"
-4.  Apri il browser all'indirizzo `http://localhost:8000`.
-
 ## ⚠️ Disclaimer Legale
-
 Questo emulatore è un software creato per scopi educativi e di preservazione. **Non include alcun file ROM di gioco né file BIOS.** L'utente è tenuto a fornire i propri file dumpati legalmente dalle cartucce fisiche in suo possesso.
