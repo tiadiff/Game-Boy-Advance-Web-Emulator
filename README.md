@@ -19,7 +19,6 @@
 * **Design Moderno**: Interfaccia "Pixel-Perfect" scura, stilizzata con Tailwind CSS e font retro (Press Start 2P).
 
 ## 🛠️ Librerie e Tecnologie Utilizzate
-
 Il progetto è un esempio di applicazione moderna senza build-step complessi (caricamento via ESM/Import Maps), utilizzando:
 
 * **[React 19](https://react.dev/)**: Utilizza le ultimissime feature come il nuovo runtime JSX e gli hook standard (`useState`, `useEffect`, `useRef`).
